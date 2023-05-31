@@ -11,7 +11,7 @@ namespace UITest
         [Test]
         public void LoginWithValidCredentialsTest()
         {
-            loginPage.InputLoginToUserNameField("testh12")
+            loginPage.InputLoginToUserNameField("testh")
                      .InputPasswordToPasswordField("1")
                      .ClickOnLoginInButton();
 
