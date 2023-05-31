@@ -12,7 +12,7 @@ namespace UITest
         public void LoginWithValidCredentialsTest()
         {
             loginPage.InputLoginToUserNameField("testh")
-                     .InputPasswordToPasswordField("1")
+                     .InputPasswordToPasswordField("231")
                      .ClickOnLoginInButton();
 
             Assert.IsTrue(homePage.CheckIsUserMenuDisplayed(), "User menu was not displayed");
