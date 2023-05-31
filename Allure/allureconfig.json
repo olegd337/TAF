@@ -1,6 +1,6 @@
 ﻿{
   "allure": {
-    "directory": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\taf\\allure-results",
+    "directory": "..\\..\\..\\..\\allure-results",
     "links": [
       "http://sagexrtvsts.visualstudio.com/Sage XRT Advanced/_workitems/edit/{issue}",
       "https://example.org/{tms}",
